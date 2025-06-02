@@ -1,0 +1,49 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## 2025
+
+### **Automated Medical Image Segmentation for Precision Orthopedic Surgery**
+
+*Group Capstone Project*
+
+An interactive dashboard (built with Dash) that accepts CT scan DICOM files and segments them into individual bones to support surgical planning in pediatric orthopedic cases. This capstone project was developed as part of the UBC Master of Data Science program in partnership with the Digital Lab at BC Children's Hospital.
+
+---
+
+### **NYPD Arrest Tracker Dashboard**
+
+*Group Academic Project*
+
+A Plotly Dash dashboard that visualizes arrest data across New York City. Users can filter by borough or precinct and explore arrest patterns through an interactive map and dynamic charts.
+
+[View on GitHub](https://github.com/UBC-MDS/DSCI-532_2025_22_nyc-arrest-tracker)
+
+[View Live Dashboard](https://dsci-532-2025-22-nyc-arrest-tracker.onrender.com/)
+
+---
+
+### **Worldfinder Python Package**
+
+*Group Academic Project*
+
+A published Python package available on [PyPI](https://pypi.org/project/worldfinder/) that provides geographic, demographic, and economic data about countries around the world. 
+
+[View on GitHub](https://github.com/UBC-MDS/DSCI524-2425-17-worldfinder)
+
+---
+
+## 2024
+
+### **NHL Player Shooting Hand Predictor**
+
+*Group Academic Project*
+
+A machine learning project to predict whether an NHL player shoots left or right based on height and weight. The project includes fully reproducible analysis and containerized setup using Docker.
+
+[View on GitHub](https://github.com/UBC-MDS/522_group_27)

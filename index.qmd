@@ -1,0 +1,25 @@
+---
+title: "Michael Gelfand"
+about:
+    template: solana
+    image: assets/profile.jpg
+    links:
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/michael-gelfand/
+      - icon: github
+        text: Github
+        href: https://github.com/michael-gelfand
+      - text: Email
+        href: mailto:mikecal88@gmail.com
+comments: false
+toc: false
+---
+
+Hey, I'm Michael! I'm a data scientist with a background in electrical and computer engineering, and a passion for solving real-world problems with data.
+
+I hold a Bachelor of Science in Electrical Engineering (minor in Computer Engineering) from the University of Calgary, and I'm currently completing my Master of Data Science at the University of British Columbia (July 2025).
+
+I previously worked as a data engineer building ETL pipelines for large-scale analytics, and I’m especially interested in applying machine learning in finance, from algorithmic trading to credit risk modeling.
+
+When I’m not writing code, you’ll find me skiing, golfing, or traveling.
